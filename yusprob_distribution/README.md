@@ -1,5 +1,7 @@
 # probability distribution Package.
 
+Gaussian and Bionomial distributions
+
 The file contains are:
 Bionomial distribution
 Gaussian Distribution
